@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/ram-sah"><img alt="Linkedin URL" src="https://img.shields.io/twitter/url?label=Ram-sah&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fram-sah" height="30">
 <a href="https://twitter.com/mohan2036"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Find-Me&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com" height="30"></a><br>
 <a href="https://drive.google.com/file/d/1bpdrFOSM3owwD3OuZ-oxOTq8jYmnGaR7/view?usp=sharing"><img alt="Resume URL" src="https://img.shields.io/twitter/url?label=Resume.pdf&logo=r&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com" height="30"></a></p>
-<br><br>
+<br>
 
 ![Ram's github stats](https://github-readme-stats.vercel.app/api?username=ram-sah&title_color=28ea80&text_color=f3f3f3&bg_color=056eaf)
 <br><br>
