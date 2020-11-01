@@ -14,7 +14,10 @@
 <a href="https://drive.google.com/file/d/1bpdrFOSM3owwD3OuZ-oxOTq8jYmnGaR7/view?usp=sharing"><img alt="Resume URL" src="https://img.shields.io/twitter/url?label=Resume.pdf&logo=r&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com" height="30"></a></p>
 <br>
 
-![Ram's github stats](https://github-readme-stats.vercel.app/api?username=ram-sah&title_color=28ea80&text_color=f3f3f3&bg_color=056eaf)
+![Ram's github stats](https://github-readme-stats.vercel.app/api?username=ram-sah&show_icons=true&title_color=28ea80&text_color=f3f3f3&bg_color=094785)<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ram-sah&layout=compact)](https://github.com/ram-sah/github-readme-stats)
+
 <br><br>
 <p>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
