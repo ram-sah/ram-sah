@@ -1,8 +1,8 @@
-## Hello 👋, thanks for stopping by!            
+### Hello 👋, thanks for stopping by!            
 
 [![Author: RAM](https://img.shields.io/badge/I'm-RAM_SAH-gggddd.svg)](https://ram-sah.github.io/React-Portfolio)
-### I live with Creativity. I'm an enthusiastic Full Stack Web Developer working with new technologies and tools and always keep on learning new things.
-### Connect with me:
+#### I live with Creativity. I'm an enthusiastic Full Stack Web Developer working with new technologies and tools and always keep on learning new things.
+#### Connect with me:
 <p>
 <a href="https://ram-sah.github.io/React-Portfolio"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Live%20URL&logo=heroku&style=social&url=https%3A%2F%2Fram" height="30"></a> 
 <a href="https://github.com/ram-sah"><img alt="github URL" src="https://img.shields.io/twitter/url?label=Ram-sah&logo=github&logoColor=red&style=social&url=https%3A%2F%2Fgithub.com" height="30"></a>
@@ -14,7 +14,6 @@
 
 ![Ram's github stats](https://github-readme-stats.vercel.app/api?username=ram-sah&show_icons=true&title_color=28ea80&text_color=f3f3f3&bg_color=094785)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ram-sah&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785)](https://github.com/ram-sah/github-readme-stats)
-
 <br><p>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
