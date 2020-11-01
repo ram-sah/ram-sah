@@ -1,9 +1,7 @@
 ## Hello 👋, thanks for stopping by!            
 
-[![Author: RAM](https://img.shields.io/badge/I'm-RAM_SAH-gggddd.svg)](https://opensource.org/Author/RAM)
-
+[![Author: RAM](https://img.shields.io/badge/I'm-RAM_SAH-gggddd.svg)](https://ram-sah.github.io/React-Portfolio)
 ### I live with Creativity. I'm an enthusiastic Full Stack Web Developer working with new technologies and tools and always keep on learning new things.<br>
-
 ### Connect with me:
 <p>
 <a href="https://ram-sah.github.io/React-Portfolio"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Live%20URL&logo=heroku&style=social&url=https%3A%2F%2Fram" height="30"></a> 
