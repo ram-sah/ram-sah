@@ -14,12 +14,10 @@
 <a href="https://drive.google.com/file/d/1bpdrFOSM3owwD3OuZ-oxOTq8jYmnGaR7/view?usp=sharing"><img alt="Resume URL" src="https://img.shields.io/twitter/url?label=Resume.pdf&logo=r&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com" height="30"></a></p>
 <br>
 
-![Ram's github stats](https://github-readme-stats.vercel.app/api?username=ram-sah&show_icons=true&title_color=28ea80&text_color=f3f3f3&bg_color=094785)<br>
+![Ram's github stats](https://github-readme-stats.vercel.app/api?username=ram-sah&show_icons=true&title_color=28ea80&text_color=f3f3f3&bg_color=094785)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ram-sah&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785)](https://github.com/ram-sah/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ram-sah&layout=compact)](https://github.com/ram-sah/github-readme-stats)
-
-<br><br>
-<p>
+<br><p>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
 <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> 
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/> 
@@ -33,8 +31,8 @@
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> 
 <img src="https://img.shields.io/badge/Redux%20-%23dff98.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/> 
-<img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>  
-<img src="https://img.shields.io/badge/travis-ci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/> 
+<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+<img src="https://img.shields.io/badge/travis-ci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/>
+  
 </p>
-
