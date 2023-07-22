@@ -11,7 +11,7 @@
 <a href="https://twitter.com/mohan2036"><img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=Find-Me&logo=twitter&style=social&url=https%3A%2F%2Ftwitter.com" height="25"></a>
 <a href="https://drive.google.com/file/d/1tz9-FStQ1TrnyoPzo26IgHUQSiETLa6z/view?usp=sharing"><img alt="Resume URL" src="https://img.shields.io/twitter/url?label=Resume.pdf&logo=r&logoColor=green&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a></p><br>
 
-![Ram's github stats](https://github-readme-stats.vercel.app/api?username=ram-sah&show_icons=true&title_color=28ea80&text_color=f3f3f3&bg_color=094785)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ram-sah&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785)](https://github.com/ram-sah/github-readme-stats)
 <br><p>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
