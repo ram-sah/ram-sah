@@ -1,7 +1,7 @@
 ### Hello 👋, thanks for stopping by!            
 
 [![Author: RAM](https://img.shields.io/badge/I'm-RAM_SAH-gggddd.svg)](https://ram-sah.github.io/React-Portfolio)
-#### I live with Creativity. I'm an enthusiastic Full Stack Web Developer working with new technologies and tools and always keep on learning new things.
+#### 👋 Hi there! I'm passionate about living with creativity. As a Full Stack Web Developer, I thrive on exploring new technologies and tools, constantly learning and growing along the way. I enjoy crafting intuitive and robust web applications that make a positive impact. Let's connect and build something amazing together! 🚀
 #### Connect with me:
 <p>
 <a href="https://ram-sah.github.io/React-Portfolio"><img alt="Portfolio URL" src="https://img.shields.io/twitter/url?label=Portfolio%20URL&logo=heroku&style=social&url=https%3A%2F%2Fram" height="25"></a> 
