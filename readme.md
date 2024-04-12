@@ -31,7 +31,7 @@
 <img src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 <img src="https://img.shields.io/badge/travisci%20-%232B2F33.svg?&style=for-the-badge&logo=travis&logoColor=white"/><br>
 <img src="https://img.shields.io/badge/handlebars%20-%2302569B.svg?&style=for-the-badge&logo=handlebar&logoColor=white"/>
-<img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />  
-<img src="https://img.shields.io/badge/tailwind%20-%238DD6F9.svg?&style=for-the-badge&logo=tailwind&logoColor=blue" />  
-<img src="https://img.shields.io/badge/nextjs%20-%238DD6F9.svg?&style=for-the-badge&logo=nextjs&logoColor=black" />  
+<img src="https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=black" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
