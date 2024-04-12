@@ -4,7 +4,7 @@
 #### 👋 Hi there! I'm passionate about living with creativity. As a Full Stack Web Developer, I thrive on exploring new technologies and tools, constantly learning and growing along the way. I enjoy crafting intuitive and robust web applications that make a positive impact. Let's connect and build something amazing together! 🚀
 #### Connect with me:
 <p>
-<a href="https://ram-sah.vercel.app/"><img alt="Portfolio URL" src="https://img.shields.io/twitter/url?label=Portfolio%20URL&logo=heroku&style=social&url=https%3A%2F%2Fram" height="25"></a> 
+<a href="https://ram-sah.vercel.app/"><img alt="Portfolio URL" src="https://img.shields.io/twitter/url?label=Portfolio%20URL&logo=vercel&style=social&url=https%3A%2F%2Fram" height="25"></a> 
 <a href="https://github.com/ram-sah"><img alt="github URL" src="https://img.shields.io/twitter/url?label=Ram-sah&logo=github&logoColor=red&style=social&url=https%3A%2F%2Fgithub.com" height="25"></a>
 <a href="mailto:rsah1@asu.edu"><img alt="Mailto" src="https://img.shields.io/twitter/url?label=E-mail&logo=gmail&style=social&url=https%3A%2F%2Fram" height="25"></a>
 <a href="https://www.linkedin.com/in/ram-sah"><img alt="Linkedin URL" src="https://img.shields.io/twitter/url?label=Ram-sah&logo=Linkedin&style=social&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fram-sah" height="25">
