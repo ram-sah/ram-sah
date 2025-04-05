@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+👋+Thanks+for+Stopping+By!;+I'm+RAM+SAH+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=40&duration=4000&lines=Hi+There!+👋+Thanks+for+Stopping+By!;+I'm+RAM+SAH+!;" />
 </h1>
 
 [![Author: RAM](https://img.shields.io/badge/I'm-RAM_SAH-gggddd.svg)](https://ram-sah.github.io/React-Portfolio)
@@ -18,9 +18,9 @@
 ---
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ram-sah&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ram-sah&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785" alt="Top Languages" height="190"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ram-sah&count_private=true&theme=react&border_radius=10&background=094785&ring=28ea80&fire=28ea80&currStreakLabel=28ea80" alt="Streak Stats" height="170"/>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ram-sah&count_private=true&theme=react&border_radius=10&background=094785&ring=28ea80&fire=28ea80&currStreakLabel=28ea80" alt="Streak Stats" height="190"/>
 </p>
 <hr/>
 
