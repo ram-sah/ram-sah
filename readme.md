@@ -18,9 +18,9 @@
 ---
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ram-sah&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ram-sah&layout=compact&title_color=28ea80&text_color=f3f3f3&bg_color=094785" alt="Top Languages" height="140"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ram-sah&count_private=true&theme=react&border_radius=10&background=094785&ring=28ea80&fire=28ea80&currStreakLabel=28ea80" alt="Streak Stats" height="200"/>
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ram-sah&count_private=true&theme=react&border_radius=10&background=094785&ring=28ea80&fire=28ea80&currStreakLabel=28ea80" alt="Streak Stats" height="140"/>
 </p>
 <hr/>
 
