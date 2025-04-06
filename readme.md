@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=40&duration=4000&lines=Hi+There!+👋+Thanks+for+Stopping+By!;+I'm+RAM+SAH+!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=50&duration=4000&lines=Hi+There!+👋+Thanks+for+Stopping+By!;+I'm+RAM+SAH+!;" />
 </h1>
 
 <h4> I've had a deep passion for technology since my early years. I've always thrived on creativity and problem-solving. I love exploring new technologies, building intuitive and impactful web applications, and constantly learning and growing along the way to create innovative tools that can benefit society. Let's connect and build something amazing together! 🚀 </h4>
